@@ -1,0 +1,25 @@
+HW5:
+
+Throughout the week I referred to the QT documentation, especially for widgets
+
+OH 10/9 -- clarifications on what I should be doing for the assignment
+
+6:30 10/11 -- https://forum.qt.io/topic/59249/read-textfile-and-display-on-qlabel-solved, used for help with file I/O
+
+OH 10/13 -- Help with debugging create function of mesh
+
+OH 10/16 -- Help with visual debugging tools and incorrectly set syms
+
+HW6:
+
+OH 10/21 -- Help determining where the crash was coming from in subdivide
+
+OH 10/24 -- Help with issue in split edge that caused subdivide to act strangely on second pass
+
+HW7:
+
+OH 10/27 -- Help with drawing joints
+
+OH 10/30 -- Help with drawing lines between joints and approach to shader
+
+OH 11/1 -- Had to remove updating bind matrices and added a missing line in ShaderProgram
